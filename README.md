@@ -48,17 +48,7 @@ Things you may want to cover:
   食材名、料理名をキーワードにして検索をかける  
   今までに保存したレシピの中から検索条件にヒットするものを表示させる  
   
+## 実装する機能について  
   
-  
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
 * Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Services (job queues, cache servers, search engines, etc.)
