@@ -45,5 +45,3 @@
   
 ## 実装する機能について  
   
-* Services (job queues, cache servers, search engines, etc.)
-* Services (job queues, cache servers, search engines, etc.)
